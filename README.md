@@ -1,3 +1,28 @@
+<!-- Title -->
+
+<p align="center">
+  <a href="https://github.com/expo/examples">
+    <img alt="create-react-native-app" src="./.gh-assets/banner.svg">
+    <h1 align="center">Serdao Technical Test</h1>
+  </a>
+</p>
+
+<!-- Header -->
+
+<p align="center">
+  <b>It's recommended to use a framework to build apps with React Native, <a href="https://reactnative.dev/docs/environment-setup">learn more</a>.</b>
+</p>
+
+<br />
+
+
+# How to run this project
+
+```bash
+$ yarn install
+$ cd ios && yarn install --repo-update && cd ..
+$ yarn start
+```
 # Introduction
 
 We're thrilled to have you at this stage of our selection process! This test is designed to assess your skills and approach to problem-solving in a practical scenario. Please carefully follow the instructions below and ensure you read through the entire document. Good luck!
